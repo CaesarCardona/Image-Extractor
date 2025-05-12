@@ -1,0 +1,15 @@
+https://github.com/BLPDigital/pdfcpu
+
+to execute, one in ~/Documents/Go-app
+
+sudo docker run -it --mount type=bind,source="$(pwd)",target=/app pdfcpu validate -mode strict ./pdfs/a.pdf
+
+to extract images of a.pdf in pdfs folder. images extracted in /pds/images
+
+sudo docker run -it --mount type=bind,source="$(pwd)",target=/app pdfcpu extract -mode=image ./pdfs/a.pdf ./pdfs/images
+
+
+
+job offer:
+
+https://swissdevjobs.ch/de/jobs/BLP-Digital-AG-Junior-Software-Engineer---Integrations-German
