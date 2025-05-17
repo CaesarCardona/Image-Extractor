@@ -9,7 +9,7 @@ Run backend
 cd backend
 node server.js
 ```
-Run backend
+Run frontend
 ```bash
 cd frontend
 npm start
