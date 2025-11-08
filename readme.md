@@ -15,4 +15,10 @@ cd frontend
 npm start
 ```
 
+# Fast Test:
+
+Choose Reference.pdf in ./Image-Extractor/backend and extract PDF
+
+Image should be in path ./Image-Extractor/backend/Go-app/pdfs/images
+
 
