@@ -1,4 +1,15 @@
+Extract images from PDFs without quaility loss, powered by go
+
+<p align="center">
+  <img src="assets/Reference-upload.png" alt="AI Agent Interface" width="600"/>
+</p>
+
+<p align="center"><em>🖼️ GUI to select PDF.</em></p>
+
+
 # Set-Up 
+
+
 
 ## Requirements
 Node.js and npm
@@ -20,5 +31,6 @@ npm start
 Choose Reference.pdf in ./Image-Extractor/backend and extract PDF
 
 Image should be in path ./Image-Extractor/backend/Go-app/pdfs/images
+
 
 
