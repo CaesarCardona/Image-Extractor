@@ -1,11 +1,8 @@
-Extract images from PDFs without quaility loss, powered by go
+## Extract images from PDFs without quaility loss, powered by go
 
 <p align="center">
   <img src="assets/Reference-upload.png" alt="AI Agent Interface" width="600"/>
 </p>
-
-<p align="center"><em>🖼️ GUI to select PDF.</em></p>
-
 
 # Set-Up 
 
