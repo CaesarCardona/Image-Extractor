@@ -1,4 +1,4 @@
-## Extract images from PDFs without quaility loss, powered by Golang
+## Extract images from PDFs without quaility loss, powered by React and Golang
 
 <p align="center">
   <img src="assets/Reference-upload.png" alt="AI Agent Interface" width="600"/>
